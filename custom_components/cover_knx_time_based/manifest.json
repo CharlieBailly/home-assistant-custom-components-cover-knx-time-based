@@ -1,0 +1,9 @@
+{
+  "domain": "cover_knx_time_based",
+  "name": "Cover Time Based KNX",
+  "documentation": "https://github.com/CharlieBailly/home-assistant-custom-components-cover-knx-time-based",
+  "requirements": [
+    "xknx==0.15.0"
+  ],
+  "codeowners": ["@davidramosweb", "@nagyrobi", "@Alfiegerner", "@CharlieBailly"]
+}
