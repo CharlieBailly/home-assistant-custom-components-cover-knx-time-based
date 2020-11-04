@@ -8,7 +8,7 @@ If you want to drive your covers using scripts and not using KNX payloads, just 
 
 The component adds two services `set_known_position` and `set_known_action` which allow updating HA in response to external stimuli like sensors without really moving the cover.
 
-[Support forum](https://community.home-assistant.io/t/custom-component-cover-time-based/187654/3?u=robi)
+[Support forum](https://community.home-assistant.io/t/custom-component-cover-time-based/187654/78?u=charliebailly)
 
 ## Installation
 
